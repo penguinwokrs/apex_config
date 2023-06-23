@@ -1,2 +1,7 @@
-# apex_config
-apex config files
+# apex_config files
+
+
+# open config dir
+```powershell
+ii $HOME/Saved Games\Respawn\Apex
+```
